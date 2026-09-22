@@ -10,3 +10,7 @@ templates:
 """
 
 __version__ = "0.1.0"
+
+from .generator import JsonTemplateGenerator
+
+__all__ = ["JsonTemplateGenerator"]
