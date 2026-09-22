@@ -1,0 +1,7 @@
+INVOICE
+Invoice Number: INV-2025-0042
+Invoice Date: 2025-09-01
+Due Date: 2025-09-30
+Seller: Acme Corp.
+Bill To: Example LLC
+Total Amount Due: USD 1250.00

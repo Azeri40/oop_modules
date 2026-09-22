@@ -1,0 +1,10 @@
+{
+  "document_type": "invoice",
+  "invoice_number": "INV-2025-0042",
+  "issue_date": "2025-09-01",
+  "due_date": "2025-09-30",
+  "seller": "Acme Corp.",
+  "buyer": "Example LLC",
+  "total_amount": "1250.00",
+  "currency": "USD"
+}
